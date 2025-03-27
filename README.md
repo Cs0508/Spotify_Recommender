@@ -1,3 +1,3 @@
 # Spotify_Recommender
 
-Enhanced LightGCN
+Enhanced(Hybrid) LightGCN
